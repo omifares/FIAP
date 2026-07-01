@@ -1,0 +1,33 @@
+Figura 1 ‒ URL SUSPEITA - LOG	5
+Figura 3 ‒ URL SUSPEITA - SPLIT	6
+Figura 4 ‒ URL SUSPEITA - PARAMETER	6
+Figura 5 ‒ URL SUSPEITA - BASE64	7
+Figura 6 ‒ URL SUSPEITA - HEX	7
+Figura 7 ‒ SOMANDO - IMPORT	8
+Figura 8 ‒ SOMANDO - SUM	8
+Figura 9 ‒ TOP USER-AGENT - PCAP	8
+Figura 10 ‒ Error: Reference source not foundError: Reference source not foundTOP USER-AGENT - FILTER	8
+Figura 11 ‒ Error: Reference source not foundError: Reference source not found-TOP USER-AGENT - USERS	8
+Figura 12 ‒ Error: Reference source not found TOP USER-AGENT - COLUMN	8
+Figura 13 ‒ Error: Reference source not foundTOP USER-AGENT  -EXPORT	8
+Figura 14 ‒ Error: Reference source not foundError: Reference source not foundTOP USER-AGENT - PIVOT	8
+Figura 15 ‒ TOP USER-AGENT - COUNTIF	8
+Figura 16 ‒ TOP IP - FILTER	8
+Figura 17 ‒ TOP IP - EXPORT	8
+Figura 18 ‒ TOP IP - FLAG	8
+Figura 19 ‒ O SEXTO HOST – NAME RESOLUTION	8
+Figura 20 ‒ O SEXTO HOST – TRAFFIC	8
+Figura 21 ‒ USUARIO DESTRUIDOR – EVENT ANALYZE	8
+Figura 22 ‒ USUARIO DESTRUIDOR – CAPTURED	8
+Figura 23 ‒ VAZAMENTO – ORDER BY PROTOCOL	8
+Figura 24 ‒ VAZAMENTO – DECODE	8
+Figura 25 ‒ CRIPTOGRAFIA ALIENÍGENA – CLEAR	8
+Figura 26 ‒ CRIPTOGRAFIA ALIENÍGENA – CESAR	8
+Figura 27 ‒ CRIPTOGRAFIA ALIENÍGENA – NUMBER ONE	8
+Figura 28 ‒ OBSOLETO – SSID	8
+Figura 29 ‒ OBSOLETO – 801.11	8
+Figura 30 ‒ OBSOLETO – WEP	8
+Figura 31 ‒ OBSOLETO – CRACKED	8
+Figura 32 ‒ CONVERSA SUSPEITA – TCP	8
+Figura 33 ‒ CONVERSA SUSPEITA – CHAT	8
+Figura 34 ‒ CONVERSA SUSPEITA – BROKED	8
