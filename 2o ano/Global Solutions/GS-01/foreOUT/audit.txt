@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue May 27 20:07:14 2025
+Invocation: foremost -i FTK.dmp -o foreOUT 
+Output directory: /home/serafim/Downloads/foreOUT
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: FTK.dmp
+Start: Tue May 27 20:07:14 2025
+Length: 6 MB (7098368 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00011203.exe 	      11 KB 	    5736272 	 09/27/2010 21:28:05
+Finish: Tue May 27 20:07:14 2025
+
+1 FILES EXTRACTED
+	
+exe:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue May 27 20:07:14 2025

@@ -1,0 +1,25 @@
+.text:004017DB ; =============== S U B R O U T I N E =======================================
+.text:004017DB
+.text:004017DB ; Attributes: bp-based frame
+.text:004017DB
+.text:004017DB ; int __cdecl Vulnerable(char *Source)
+.text:004017DB                 public _Vulnerable
+.text:004017DB _Vulnerable     proc near               ; CODE XREF: ConnectionHandler(x)+CD?p
+.text:004017DB
+.text:004017DB Destination     = byte ptr -208h
+.text:004017DB Source          = dword ptr  8
+.text:004017DB
+.text:004017DB ; __unwind {
+.text:004017DB                 push    ebp
+.text:004017DC                 mov     ebp, esp
+.text:004017DE                 sub     esp, 218h
+.text:004017E4                 mov     eax, [ebp+Source]
+.text:004017E7                 mov     [esp+4], eax    ; Source
+.text:004017EB                 lea     eax, [ebp+Destination]
+.text:004017F1                 mov     [esp], eax      ; Destination
+.text:004017F4                 call    _strcpy
+.text:004017F9                 nop
+.text:004017FA                 leave
+.text:004017FB                 retn
+.text:004017FB ; } // starts at 4017DB
+.text:004017FB _Vulnerable     endptext

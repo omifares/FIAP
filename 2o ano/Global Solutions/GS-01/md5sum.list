@@ -1,0 +1,10 @@
+b9e723656f96d3dc9d3e4c18b22b84b8  /mnt/tsk/part2/System.map-2.2.14-5.0
+055eca6228c2e9f79b39e76ac2ad8340  /mnt/tsk/part2/module-info-2.2.14-5.0
+147b82ba50182219dcafadde28bd5834  /mnt/tsk/part2/vmlinux-2.2.14-5.0
+556d1550073cad29d63c76aced75f13c  /mnt/tsk/part2/vmlinuz-2.2.14-5.0
+42871a213b24680cfdf5ff7e4fea22ff  /mnt/tsk/part2/boot.b
+723937e41c361f3db69fbd0ae4afde13  /mnt/tsk/part2/chain.b
+45751f41d48da93f2feea5651e1c5fc7  /mnt/tsk/part2/os2_d.b
+a209472e199ce039b0654f6dd4ff2b2d  /mnt/tsk/part2/boot.0300
+53adf24722e77b25db3d15311de6a4ca  /mnt/tsk/part2/map
+bacb4c112968257b000919aae1999304  /mnt/tsk/part2/kernel.h
