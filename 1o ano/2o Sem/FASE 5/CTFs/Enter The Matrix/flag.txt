@@ -1,0 +1,3 @@
+o endereço da memoria foi encontrado usando o comando objdump -d, que faz o dissasemble do binario, então encontrei o label "flag"
+
+FIAP{d61ebfaa545de6660a2db762110500e7}

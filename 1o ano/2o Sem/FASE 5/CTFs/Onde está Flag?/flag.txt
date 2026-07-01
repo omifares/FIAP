@@ -1,0 +1,3 @@
+Para encontrar a flag, foi necessario fazer um patch no binario, isso é, modificar ainstrução htl que lança uma exceção, substituindo por nop (no operation), assim podemos exibir a flag
+
+FIAP{5ypjpuWjNKdXfO1usQV2cmEIzbTuAX18}

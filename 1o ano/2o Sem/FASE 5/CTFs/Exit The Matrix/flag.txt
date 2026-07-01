@@ -1,0 +1,3 @@
+Bastou abrir o exe com o x32dgb e procurar as strings armazenadas no mesmo
+
+FIAP{b50a2afa53d700fa8e06de2a04c33280}
