@@ -1,0 +1,10 @@
+2o[[:space:]]ano/Global[[:space:]]Solutions/GS-01/Brute-force-Legacy/zipied/Debian5_26.zip filter=lfs diff=lfs merge=lfs -text
+2o[[:space:]]ano/Global[[:space:]]Solutions/GS-01/Brute-force-Legacy/zipied/server.img.zip filter=lfs diff=lfs merge=lfs -text
+2o[[:space:]]ano/Global[[:space:]]Solutions/GS-01/Brute-force-Legacy/zipied/server.mem.zip filter=lfs diff=lfs merge=lfs -text
+2o[[:space:]]ano/Global[[:space:]]Solutions/GS-01/Deep-Memory/desafio.mem.7z filter=lfs diff=lfs merge=lfs -text
+2o[[:space:]]ano/Global[[:space:]]Solutions/GS-01/Prin-Strike/win.mem.7z filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.raw filter=lfs diff=lfs merge=lfs -text
+*.evtx filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+*.dd filter=lfs diff=lfs merge=lfs -text
